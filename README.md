@@ -150,8 +150,6 @@ ai-resume-analyzer/
 │   ├── api_client.py          # Backend client
 │   ├── .streamlit/config.toml
 │   └── Dockerfile
-├── .github/workflows/ci.yml
-├── docker-compose.yml
 ├── render.yaml
 ├── .env.example
 └── README.md
